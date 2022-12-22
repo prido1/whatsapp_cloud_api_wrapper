@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp_cloud_api_wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for the WhatsApp Cloud Api",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo 'Unit tests have been temporarily disabled.'",
+    "build:tsc": "tsc --removeComments --sourceMap",
+    "build": "npm run build:tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}

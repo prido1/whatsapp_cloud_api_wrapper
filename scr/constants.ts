@@ -1,0 +1,1 @@
+export let WHATSAPP_CLOUD_API_ENDPOINT = 'https://graph.facebook.com/v15.0';
